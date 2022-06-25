@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @atronee
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, R, Git, C++, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 otavio.oam@protonmail.com
+- 👋 Olá, sou o Otávio.
+- 👀 Estou estudando Data Science, Python, R, C++.
+- 📫 otavio.oam@protonmail.com;
