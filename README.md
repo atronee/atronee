@@ -1,3 +1,3 @@
 - 👋 Olá, sou o Otávio.
-- 👀 Estou estudando Data Science, Python, R, C++.
+- 👀 Estou estudando Data Science, Python, C++.
 - 📫 otavio.oam@protonmail.com.
